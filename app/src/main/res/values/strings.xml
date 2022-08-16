@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Compose ToDo Notes App</string>
+    <string name="add_button">Add button</string>
 </resources>

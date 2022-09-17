@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Compose ToDo Notes App</string>
+    <string name="search_action">Search Tasks</string>
+    <string name="sort_tasks">Sort Tasks</string>
+    <string name="delete_all_action">Delete all</string>
     <string name="add_button">Add button</string>
 </resources>

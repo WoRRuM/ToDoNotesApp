@@ -1,5 +1,14 @@
 <resources>
     <string name="app_name">Compose ToDo Notes App</string>
+    <string name="back_arrow">Back arrow</string>
+    <string name="add_task">Add task</string>
+    <string name="empty_content">Tasks not found</string>
+    
+    <string name="sad_face_icon">Sad Face Icon</string>
+    <string name="search_icon">Search Icon</string>
+    <string name="close_icon">Close icon</string>
+    <string name="search_placeholder">Search</string>
+    <string name="list_screen_title">Tasks</string>
     <string name="search_action">Search Tasks</string>
     <string name="sort_tasks">Sort Tasks</string>
     <string name="delete_all_action">Delete all</string>

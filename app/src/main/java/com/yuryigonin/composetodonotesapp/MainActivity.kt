@@ -35,7 +35,6 @@ class MainActivity : ComponentActivity() {
                     navController = navController,
                     sharedViewModel = sharedViewModel
                 )
-
             }
         }
     }

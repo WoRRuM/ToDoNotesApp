@@ -6,7 +6,9 @@
 ## General info
 This project is my realization of ToDoApp with such functionality like: Priority, Sorting by Priority, Delete/DeleteAll tasks, simple search engine and UI Jetpack Compose
 
-![My Remote Image](https://drive.google.com/file/d/1mGmRc0SKpeibFbuUsLy4Q5fN3ekG8ASV/view?usp=sharing)
+![UI](https://user-images.githubusercontent.com/74863359/193428651-6af860d1-cb0c-4141-9112-45bff5573738.png)
+![UI_Night](https://user-images.githubusercontent.com/74863359/193428974-60ae37d8-a50b-4336-816d-7ee8abaea18e.png)
+
 
 ## Technologies
 Project is created with:
@@ -19,4 +21,3 @@ Project is created with:
 	
 ## Setup
 To run this project, clone the repository to Android Studio:
-

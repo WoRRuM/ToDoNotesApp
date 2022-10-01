@@ -18,5 +18,5 @@ Project is created with:
 * SQLite
 	
 ## Setup
-To run this project, clone this repository to Android Studio:
+To run this project, clone the repository to Android Studio:
 

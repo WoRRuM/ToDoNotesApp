@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "842724956937",
+    "project_id": "todomirea-project",
+    "storage_bucket": "todomirea-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842724956937:android:5eb2128de11aa8c7f1d1d8",
+        "android_client_info": {
+          "package_name": "com.yuryigonin.composetodonotesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842724956937-0pphlhne5oj17vlu27ab61cbu76meegr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKRPRtRCmPL0wLkU9kLiN3yTqLPU3T4FI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842724956937-0pphlhne5oj17vlu27ab61cbu76meegr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

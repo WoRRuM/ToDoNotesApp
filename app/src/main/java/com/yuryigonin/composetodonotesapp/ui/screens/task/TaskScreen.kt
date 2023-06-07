@@ -1,5 +1,6 @@
 package com.yuryigonin.composetodonotesapp.ui.screens.task
 
+import android.annotation.SuppressLint
 import android.content.Context
 import android.widget.Toast
 import androidx.compose.material.Scaffold
@@ -11,6 +12,7 @@ import com.yuryigonin.composetodonotesapp.data.models.ToDoTask
 import com.yuryigonin.composetodonotesapp.ui.viewmodel.SharedViewModel
 import com.yuryigonin.composetodonotesapp.util.Action
 
+@SuppressLint("UnusedMaterialScaffoldPaddingParameter")
 @Composable
 fun TaskScreen(
     selectedTask: ToDoTask?,
